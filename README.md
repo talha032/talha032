@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **https://www.instagram.com/_muhammad_.talha_/**
 
